@@ -10,11 +10,7 @@
 
 <br>
 
-> **TOOLS CORE v1 — by Mathkasa — Multi Tools Terminal 🚀**
-
-<br>
-
-### ⭐ Star le repo pour soutenir le projet ⭐
+> **TOOLS CORE v1 — by Mathkasa 🚀**
 
 </div>
 
@@ -22,12 +18,11 @@
 
 ## 🖥️ Overview
 
-**Tools Core** est un multitool en terminal développé pour regrouper plusieurs fonctionnalités utiles dans une seule interface.
+Tools Core est un multitool en terminal regroupant plusieurs fonctionnalités dans une seule interface.
 
-Il permet de :
-- centraliser plusieurs outils 🔧  
-- naviguer rapidement avec un menu ⚡  
-- utiliser différentes fonctionnalités sans installer 50 projets  
+✔ rapide  
+✔ simple  
+✔ organisé en modules  
 
 ---
 
@@ -41,75 +36,84 @@ Il permet de :
 
 ## 📂 Modules
 
-Le tool est organisé en plusieurs pages accessibles via des commandes.
-
 ---
 
-### 🧰 Page 1 — Menu principal
+### 🧰 Menu principal
 
 <div align="center">
 <img src="https://i.postimg.cc/yxPJT2tS/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
 </div>
 
-> Accès aux différentes sections du tool
-
 ---
 
-### ⚙️ Page 2 — Outils
+### ⚙️ Outils
 
 <div align="center">
 <img src="https://i.postimg.cc/rsJd973W/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
 </div>
 
-> Regroupe plusieurs outils utiles accessibles rapidement
+| Key | Tool |
+|-----|------|
+| `01` | Outils principaux |
+| `02` | Utilitaires |
+| `03` | Analyse |
+| `04` | Réseau |
+| `00` | Retour |
 
 ---
 
-### 🌐 Page 3 — Fonctions réseau
+### 🌐 Réseau
 
 <div align="center">
 <img src="https://i.postimg.cc/fyK3v1pd/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
 </div>
 
-> Outils liés aux informations réseau et à l’analyse
+| Key | Tool |
+|-----|------|
+| `01` | Lookup IP |
+| `02` | Ping test |
+| `03` | Analyse réseau |
+| `04` | Informations système |
 
 ---
 
-### 🔐 Page 4 — Utilitaires
+### 🎁 Générateur
 
 <div align="center">
 <img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
 </div>
 
-> Générateurs, utilitaires et fonctions diverses
+| Key | Tool |
+|-----|------|
+| `01` | Générateur simple |
+| `02` | Générateur aléatoire |
+| `03` | Outils de création |
 
 ---
 
-### ⚡ Page 5 — Autres outils
+### 📦 Divers
 
 <div align="center">
 <img src="https://i.postimg.cc/Y034xTZQ/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
 </div>
 
-> Outils supplémentaires et évolutions futures
+| Key | Tool |
+|-----|------|
+| `01` | Tools additionnels |
+| `02` | Fonction système |
+| `03` | Optimisation |
+| `04` | Settings |
 
 ---
 
-## 📋 Requirements
+## ⬇️ Installation
 
-Avant de lancer le tool :
-
-- Python 3.x  
-- Node.js (selon modules)  
-
----
-
-## ⬇️ Télécharger
-
-👉 ZIP direct :  
+### 🔹 Télécharger ZIP
 https://codeload.github.com/Mathkasa/Tools-Core-v1/zip/refs/heads/main  
 
-👉 Ou cloner :
+---
+
+### 🔹 Installation manuelle
 
 ```bash
 git clone https://github.com/Mathkasa/Tools-Core-v1
