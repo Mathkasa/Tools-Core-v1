@@ -10,7 +10,7 @@
 
 <br>
 
-> **TOOLS CORE v1 — by Mathkasa 🚀**
+> **TOOLS CORE v1 — Multitool Python terminal 🚀**
 
 </div>
 
@@ -18,15 +18,20 @@
 
 ## 🖥️ Overview
 
-Tools Core est un multitool en terminal regroupant plusieurs fonctionnalités dans une seule interface.
+**Tools Core** est un multitool en terminal regroupant plusieurs utilitaires dans une seule interface.
 
 ✔ rapide  
 ✔ simple  
 ✔ organisé en modules  
+✔ orienté outils système & réseau  
 
 ---
 
-## ⚡ Interface
+## ⚡ Modules
+
+---
+
+### 🧰 Menu principal
 
 <div align="center">
 <img src="https://i.postimg.cc/yxPJT2t3/Capture-d-ecran-2026-04-30-162535.png" width="900"/>
@@ -34,29 +39,17 @@ Tools Core est un multitool en terminal regroupant plusieurs fonctionnalités da
 
 ---
 
-## 📂 Modules
-
----
-
-### 🧰 Menu principal
+### ⚙️ Outils
 
 <div align="center">
 <img src="https://i.postimg.cc/yxPJT2tS/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
 </div>
 
----
-
-### ⚙️ Outils
-
-<div align="center">
-<img src="https://i.postimg.cc/rsJd973W/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
-</div>
-
 | Key | Tool |
 |-----|------|
 | `01` | Outils principaux |
-| `02` | Utilitaires |
-| `03` | Analyse |
+| `02` | Utilitaires système |
+| `03` | Analyse basique |
 | `04` | Réseau |
 | `00` | Retour |
 
@@ -72,12 +65,12 @@ Tools Core est un multitool en terminal regroupant plusieurs fonctionnalités da
 |-----|------|
 | `01` | Lookup IP |
 | `02` | Ping test |
-| `03` | Analyse réseau |
-| `04` | Informations système |
+| `03` | Informations réseau |
+| `04` | Infos système |
 
 ---
 
-### 🎁 Générateur
+### 🔐 Sécurité / Utilitaires
 
 <div align="center">
 <img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
@@ -85,9 +78,10 @@ Tools Core est un multitool en terminal regroupant plusieurs fonctionnalités da
 
 | Key | Tool |
 |-----|------|
-| `01` | Générateur simple |
-| `02` | Générateur aléatoire |
-| `03` | Outils de création |
+| `01` | Générateur de mots de passe |
+| `02` | Hash tool |
+| `03` | Temp utilities |
+| `04` | Outils de conversion |
 
 ---
 
@@ -118,3 +112,4 @@ https://codeload.github.com/Mathkasa/Tools-Core-v1/zip/refs/heads/main
 ```bash
 git clone https://github.com/Mathkasa/Tools-Core-v1
 cd Tools-Core-v1
+python main.py
