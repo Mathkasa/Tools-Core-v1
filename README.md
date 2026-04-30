@@ -18,11 +18,11 @@
 
 ---
 
-## 🖥️ Overview
+## 🖥️ OVERVIEW
 
 **Tools Core** est un multitool terminal développé en Python.
 
-Il regroupe plusieurs modules utiles :
+Il regroupe plusieurs modules :
 
 - OSINT & informations publiques  
 - outils réseau  
@@ -32,7 +32,8 @@ Il regroupe plusieurs modules utiles :
 ---
 
 # 🔍 OSINT — Page 2/11
-Gather intelligence using public data tools.
+
+<img src="https://i.postimg.cc/yxPJT2tS/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
 
 | Key | Tool | Key | Tool |
 |-----|------|-----|------|
@@ -47,80 +48,86 @@ Gather intelligence using public data tools.
 
 ---
 
-# 🌐 NETWORK — Page 3/11
-Network analysis & monitoring tools.
+# ⚙️ OUTILS — Page 3/11
 
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | Ping Tool | 02 | Latency Test |
-| 03 | Server Status | 04 | Port Scanner |
-| 05 | Bandwidth Test | 06 | Network Info |
-| 07 | System Monitor | 08 | ⭐ Locked |
+<img src="https://i.postimg.cc/rsJd973W/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
 
----
-
-# ⚙️ UTILITIES — Page 4/11
-System & productivity tools.
-
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | File Info | 02 | Text Tools |
-| 03 | Base64 Encoder | 04 | Hash Generator |
-| 05 | UUID Generator | 06 | String Tools |
-| 07 | Converter | 08 | ⭐ Locked |
+| Key | Tool |
+|-----|------|
+| 01 | Outils système |
+| 02 | Utilitaires |
+| 03 | Analyse |
+| 04 | Réseau |
+| 00 | Retour |
 
 ---
 
-# 🔐 CRYPTO — Page 5/11
-Security & encryption utilities.
+# 🌐 RÉSEAU — Page 4/11
 
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | Hash Checker | 02 | Password Generator |
-| 03 | Encryption Tool | 04 | Decryption Tool |
-| 05 | Hash Generator | 06 | Secure Notes |
+<img src="https://i.postimg.cc/fyK3v1pd/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
 
----
-
-# 🌐 IP TOOLS — Page 6/11
-IP analysis & diagnostics.
-
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | IP Lookup | 02 | IP Geolocation |
-| 03 | ISP Info | 04 | Open Ports |
-| 05 | Ping IP | 06 | Network Scan |
-| 07 | IP Generator (test) | 08/09 | ⭐ Locked |
+| Key | Tool |
+|-----|------|
+| 01 | IP Lookup |
+| 02 | Ping Test |
+| 03 | Network Info |
+| 04 | System Info |
 
 ---
 
-# 🎁 GENERATORS — Page 7/11
-Safe generators & utilities.
+# 🎁 GÉNÉRATEUR — Page 5/11
 
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | Password Generator | 02 | Random ID |
-| 03 | UUID Generator | 04 | Color Generator |
-| 05 | API Key Format | 06 | Text Generator |
-| 07 | Token Generator | 08 | Hash Generator |
+<img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
+
+| Key | Tool |
+|-----|------|
+| 01 | Password Generator |
+| 02 | Random ID |
+| 03 | UUID Generator |
+| 04 | API Tools |
+
+---
+
+# 📦 DIVERS — Page 6/11
+
+<img src="https://i.postimg.cc/Y034xTZQ/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
+
+| Key | Tool |
+|-----|------|
+| 01 | System Tools |
+| 02 | Optimization |
+| 03 | Settings |
+| 04 | Extras |
+
+---
+
+# 🔐 CRYPTO & UTILS — Page 7/11
+
+✔ Hash tools  
+✔ Password generator  
+✔ Encryption tools  
+✔ Base64 tools  
+✔ File utilities  
 
 ---
 
 # 🖥️ SYSTEM — Page 8/11
-System tools & diagnostics.
 
-| Key | Tool | Key | Tool |
-|-----|------|-----|------|
-| 01 | CPU Info | 02 | RAM Usage |
-| 03 | Disk Info | 04 | System Info |
-| 05 | Process Viewer | 06 | Performance Monitor |
+✔ CPU Info  
+✔ RAM Usage  
+✔ Disk Info  
+✔ Process Viewer  
+✔ System Monitor  
 
 ---
 
-## ⚙️ Installation
+## ⚙️ INSTALLATION
+
+### 📦 MÉTHODE ZIP (RECOMMANDÉ)
+
+1. Télécharger le projet en ZIP  
+2. Extraire le dossier  
+3. Lancer :
 
 ```bash
-git clone https://github.com/Mathkasa/Tools-Core-v1
-cd Tools-Core-v1
-pip install -r requirements.txt
-python main.py
+setup.bat
