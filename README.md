@@ -10,7 +10,7 @@
 
 <br>
 
-> **TOOLS CORE v1 — by Mathkasa 🚀**
+> **TOOLS CORE v1 — by Mathkasa — Multi Tools Terminal 🚀**
 
 <br>
 
@@ -22,49 +22,76 @@
 
 ## 🖥️ Overview
 
-**Tools Core** est un multitool en terminal qui regroupe plusieurs outils utiles dans une seule interface.
+**Tools Core** est un multitool en terminal développé pour regrouper plusieurs fonctionnalités utiles dans une seule interface.
 
-✔️ Simple  
-✔️ Rapide  
-✔️ Efficace  
+Il permet de :
+- centraliser plusieurs outils 🔧  
+- naviguer rapidement avec un menu ⚡  
+- utiliser différentes fonctionnalités sans installer 50 projets  
 
 ---
 
-## ⚡ Interface & Aperçu
+## ⚡ Interface
 
 <div align="center">
 <img src="https://i.postimg.cc/yxPJT2t3/Capture-d-ecran-2026-04-30-162535.png" width="900"/>
 </div>
 
-<br>
+---
+
+## 📂 Modules
+
+Le tool est organisé en plusieurs pages accessibles via des commandes.
+
+---
+
+### 🧰 Page 1 — Menu principal
 
 <div align="center">
 <img src="https://i.postimg.cc/yxPJT2tS/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
 </div>
 
-<br>
+> Accès aux différentes sections du tool
+
+---
+
+### ⚙️ Page 2 — Outils
 
 <div align="center">
 <img src="https://i.postimg.cc/rsJd973W/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
 </div>
 
-<br>
+> Regroupe plusieurs outils utiles accessibles rapidement
+
+---
+
+### 🌐 Page 3 — Fonctions réseau
 
 <div align="center">
 <img src="https://i.postimg.cc/fyK3v1pd/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
 </div>
 
-<br>
+> Outils liés aux informations réseau et à l’analyse
+
+---
+
+### 🔐 Page 4 — Utilitaires
 
 <div align="center">
 <img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
 </div>
 
-<br>
+> Générateurs, utilitaires et fonctions diverses
+
+---
+
+### ⚡ Page 5 — Autres outils
 
 <div align="center">
 <img src="https://i.postimg.cc/Y034xTZQ/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
 </div>
+
+> Outils supplémentaires et évolutions futures
 
 ---
 
@@ -72,17 +99,17 @@
 
 Avant de lancer le tool :
 
-- Python installé (3.x recommandé)
-- Node.js (si utilisé)
+- Python 3.x  
+- Node.js (selon modules)  
 
 ---
 
 ## ⬇️ Télécharger
 
-👉 Télécharger en ZIP :  
+👉 ZIP direct :  
 https://codeload.github.com/Mathkasa/Tools-Core-v1/zip/refs/heads/main  
 
-👉 Ou cloner le repo :
+👉 Ou cloner :
 
 ```bash
 git clone https://github.com/Mathkasa/Tools-Core-v1
