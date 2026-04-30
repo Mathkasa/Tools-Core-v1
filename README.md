@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tools Core](https://i.postimg.cc/zHyXz2JN/Capture-d-ecran-2026-04-30-162432.png)
+<img src="https://i.postimg.cc/zHyXz2JN/Capture-d-ecran-2026-04-30-162432.png" width="900"/>
 
 <br>
 
@@ -22,8 +22,7 @@
 
 ## 🖥️ Overview
 
-**Tools Core** est un multitool simple, rapide et efficace.  
-Tout est regroupé au même endroit pour éviter de perdre du temps.
+**Tools Core** est un multitool simple, rapide et efficace.
 
 ---
 
@@ -31,36 +30,48 @@ Tout est regroupé au même endroit pour éviter de perdre du temps.
 
 <br>
 
-![Screen 1](https://i.postimg.cc/GT4hLgcb/Capture-d-ecran-2026-04-30-162535.png)
+<div align="center">
+<img src="https://i.postimg.cc/GT4hLgcb/Capture-d-ecran-2026-04-30-162535.png" width="900"/>
+</div>
 
 <br>
 
-![Screen 2](https://i.postimg.cc/bSZNyVzz/Capture-d-ecran-2026-04-30-162612.png)
+<div align="center">
+<img src="https://i.postimg.cc/bSZNyVzz/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
+</div>
 
 <br>
 
-![Screen 3](https://i.postimg.cc/wR1Tq46T/Capture-d-ecran-2026-04-30-162623.png)
+<div align="center">
+<img src="https://i.postimg.cc/wR1Tq46T/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
+</div>
 
 <br>
 
-![Screen 4](https://i.postimg.cc/fSVTzqwW/Capture-d-ecran-2026-04-30-162631.png)
+<div align="center">
+<img src="https://i.postimg.cc/fSVTzqwW/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
+</div>
 
 <br>
 
-![Screen 5](https://i.postimg.cc/9wDFmgW0/Capture-d-ecran-2026-04-30-162639.png)
+<div align="center">
+<img src="https://i.postimg.cc/9wDFmgW0/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
+</div>
 
 <br>
 
-![Screen 6](https://i.postimg.cc/hQXPDZSG/Capture-d-ecran-2026-04-30-162650.png)
+<div align="center">
+<img src="https://i.postimg.cc/hQXPDZSG/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
+</div>
 
 ---
 
 ## 📦 Features
 
-- 🔧 Outils rapides
-- ⚡ Interface simple
-- 🧩 Modules évolutifs
-- 🚀 Projet en constante amélioration
+- 🔧 Outils rapides  
+- ⚡ Interface simple  
+- 🧩 Modules évolutifs  
+- 🚀 Projet en amélioration constante  
 
 ---
 
