@@ -123,7 +123,7 @@ Il regroupe plusieurs modules :
 
 ### 📦 ZIP (RECOMMENDED)
 
-1. Download ZIP  -  blob:https://github.com/5868a1d9-f0ef-46fd-bc50-ac818d9703e1
+1. Download ZIP  -  https://codeload.github.com/Mathkasa/Tools-Core-v1/zip/refs/heads/main
 2. Extract folder  
 3. Run:
 
