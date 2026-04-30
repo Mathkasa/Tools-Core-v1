@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ OVERVIEW
+## 🖥️ Overview
 
 **Tools Core** est un multitool terminal développé en Python.
 
@@ -27,7 +27,7 @@ Il regroupe plusieurs modules :
 - OSINT & informations publiques  
 - outils réseau  
 - utilitaires système  
-- analyse & diagnostic  
+- analyse & diagnostics  
 
 ---
 
@@ -44,90 +44,88 @@ Il regroupe plusieurs modules :
 | 09 | GeoIP | 10 | Website Info |
 | 11 | Header Analyzer | 12 | Technology Scan |
 | 13 | VPN Detection | 14 | Data Checker |
-| 15/16/17 | ⭐ Locked | |
 
 ---
 
-# ⚙️ OUTILS — Page 3/11
+# ⚙️ TOOLS — Page 3/11
 
 <img src="https://i.postimg.cc/rsJd973W/Capture-d-ecran-2026-04-30-162623.png" width="900"/>
 
 | Key | Tool |
 |-----|------|
-| 01 | Outils système |
-| 02 | Utilitaires |
-| 03 | Analyse |
-| 04 | Réseau |
-| 00 | Retour |
+| 01 | System Tools |
+| 02 | Utilities |
+| 03 | Analyzer |
+| 04 | Network Tools |
 
 ---
 
-# 🌐 RÉSEAU — Page 4/11
+# 🌐 NETWORK — Page 4/11
 
 <img src="https://i.postimg.cc/fyK3v1pd/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
 
 | Key | Tool |
 |-----|------|
 | 01 | IP Lookup |
-| 02 | Ping Test |
+| 02 | Ping Tool |
 | 03 | Network Info |
 | 04 | System Info |
 
 ---
 
-# 🎁 GÉNÉRATEUR — Page 5/11
+# 🧰 UTILITIES — Page 5/11
 
 <img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
 
 | Key | Tool |
 |-----|------|
 | 01 | Password Generator |
-| 02 | Random ID |
+| 02 | Random Generator |
 | 03 | UUID Generator |
-| 04 | API Tools |
+| 04 | Text Tools |
 
 ---
 
-# 📦 DIVERS — Page 6/11
+# 📦 MISC — Page 6/11
 
 <img src="https://i.postimg.cc/Y034xTZQ/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
 
 | Key | Tool |
 |-----|------|
-| 01 | System Tools |
+| 01 | System Info |
 | 02 | Optimization |
 | 03 | Settings |
 | 04 | Extras |
 
 ---
 
-# 🔐 CRYPTO & UTILS — Page 7/11
+# 🔐 CRYPTO — Page 7/11
 
-✔ Hash tools  
-✔ Password generator  
-✔ Encryption tools  
-✔ Base64 tools  
-✔ File utilities  
+- Hash tools  
+- Password generator  
+- Encryption / Decryption  
+- Base64 tools  
+- File utilities  
 
 ---
 
 # 🖥️ SYSTEM — Page 8/11
 
-✔ CPU Info  
-✔ RAM Usage  
-✔ Disk Info  
-✔ Process Viewer  
-✔ System Monitor  
+- CPU info  
+- RAM usage  
+- Disk usage  
+- Process viewer  
+- Performance monitor  
 
 ---
 
 ## ⚙️ INSTALLATION
 
-### 📦 MÉTHODE ZIP (RECOMMANDÉ)
+### 📦 ZIP (RECOMMENDED)
 
-1. Télécharger le projet en ZIP  
-2. Extraire le dossier  
-3. Lancer :
+1. Download ZIP  
+2. Extract folder  
+3. Run:
 
 ```bash
 setup.bat
