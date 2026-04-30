@@ -5,12 +5,14 @@
 <br>
 
 [![Stars](https://img.shields.io/github/stars/Mathkasa/Tools-Core-v1?color=ff0000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathkasa/Tools-Core-v1)
-[![Forks](https://img.shields.io/github/forks/Mathkasa/Tools-Core-v1?color=8b0000&style=for-the-badge&logoColor=white)](https://github.com/Mathkasa/Tools-Core-v1)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-ff0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HC5Eqy7Aq7)
+[![Forks](https://img.shields.io/github/forks/Mathkasa/Tools-Core-v1?color=8b0000&style=for-the-badge)](https://github.com/Mathkasa/Tools-Core-v1)
+[![Python](https://img.shields.io/badge/Python-3.11.5-ff0000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
 
-> **TOOLS CORE v1 — Multitool Python terminal 🚀**
+> **TOOLS CORE v1 — by Mathkasa 🚀**
+
+<br>
 
 </div>
 
@@ -18,98 +20,107 @@
 
 ## 🖥️ Overview
 
-**Tools Core** est un multitool en terminal regroupant plusieurs utilitaires dans une seule interface.
+**Tools Core** est un multitool terminal développé en Python.
 
-✔ rapide  
-✔ simple  
-✔ organisé en modules  
-✔ orienté outils système & réseau  
+Il regroupe plusieurs modules utiles :
 
----
-
-## ⚡ Modules
+- OSINT & informations publiques  
+- outils réseau  
+- utilitaires système  
+- analyse & diagnostic  
 
 ---
 
-### 🧰 Menu principal
+# 🔍 OSINT — Page 2/11
+Gather intelligence using public data tools.
 
-<div align="center">
-<img src="https://i.postimg.cc/yxPJT2t3/Capture-d-ecran-2026-04-30-162535.png" width="900"/>
-</div>
-
----
-
-### ⚙️ Outils
-
-<div align="center">
-<img src="https://i.postimg.cc/yxPJT2tS/Capture-d-ecran-2026-04-30-162612.png" width="900"/>
-</div>
-
-| Key | Tool |
-|-----|------|
-| `01` | Outils principaux |
-| `02` | Utilitaires système |
-| `03` | Analyse basique |
-| `04` | Réseau |
-| `00` | Retour |
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | IP Lookup | 02 | Domain Info |
+| 03 | Username Search | 04 | Email Validator |
+| 05 | Phone Lookup | 06 | WHOIS Lookup |
+| 07 | DNS Lookup | 08 | Social Search |
+| 09 | GeoIP | 10 | Website Info |
+| 11 | Header Analyzer | 12 | Technology Scan |
+| 13 | VPN Detection | 14 | Data Checker |
+| 15/16/17 | ⭐ Locked | |
 
 ---
 
-### 🌐 Réseau
+# 🌐 NETWORK — Page 3/11
+Network analysis & monitoring tools.
 
-<div align="center">
-<img src="https://i.postimg.cc/fyK3v1pd/Capture-d-ecran-2026-04-30-162631.png" width="900"/>
-</div>
-
-| Key | Tool |
-|-----|------|
-| `01` | Lookup IP |
-| `02` | Ping test |
-| `03` | Informations réseau |
-| `04` | Infos système |
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | Ping Tool | 02 | Latency Test |
+| 03 | Server Status | 04 | Port Scanner |
+| 05 | Bandwidth Test | 06 | Network Info |
+| 07 | System Monitor | 08 | ⭐ Locked |
 
 ---
 
-### 🔐 Sécurité / Utilitaires
+# ⚙️ UTILITIES — Page 4/11
+System & productivity tools.
 
-<div align="center">
-<img src="https://i.postimg.cc/2ywqxgMQ/Capture-d-ecran-2026-04-30-162639.png" width="900"/>
-</div>
-
-| Key | Tool |
-|-----|------|
-| `01` | Générateur de mots de passe |
-| `02` | Hash tool |
-| `03` | Temp utilities |
-| `04` | Outils de conversion |
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | File Info | 02 | Text Tools |
+| 03 | Base64 Encoder | 04 | Hash Generator |
+| 05 | UUID Generator | 06 | String Tools |
+| 07 | Converter | 08 | ⭐ Locked |
 
 ---
 
-### 📦 Divers
+# 🔐 CRYPTO — Page 5/11
+Security & encryption utilities.
 
-<div align="center">
-<img src="https://i.postimg.cc/Y034xTZQ/Capture-d-ecran-2026-04-30-162650.png" width="900"/>
-</div>
-
-| Key | Tool |
-|-----|------|
-| `01` | Tools additionnels |
-| `02` | Fonction système |
-| `03` | Optimisation |
-| `04` | Settings |
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | Hash Checker | 02 | Password Generator |
+| 03 | Encryption Tool | 04 | Decryption Tool |
+| 05 | Hash Generator | 06 | Secure Notes |
 
 ---
 
-## ⬇️ Installation
+# 🌐 IP TOOLS — Page 6/11
+IP analysis & diagnostics.
 
-### 🔹 Télécharger ZIP
-https://codeload.github.com/Mathkasa/Tools-Core-v1/zip/refs/heads/main  
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | IP Lookup | 02 | IP Geolocation |
+| 03 | ISP Info | 04 | Open Ports |
+| 05 | Ping IP | 06 | Network Scan |
+| 07 | IP Generator (test) | 08/09 | ⭐ Locked |
 
 ---
 
-### 🔹 Installation manuelle
+# 🎁 GENERATORS — Page 7/11
+Safe generators & utilities.
+
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | Password Generator | 02 | Random ID |
+| 03 | UUID Generator | 04 | Color Generator |
+| 05 | API Key Format | 06 | Text Generator |
+| 07 | Token Generator | 08 | Hash Generator |
+
+---
+
+# 🖥️ SYSTEM — Page 8/11
+System tools & diagnostics.
+
+| Key | Tool | Key | Tool |
+|-----|------|-----|------|
+| 01 | CPU Info | 02 | RAM Usage |
+| 03 | Disk Info | 04 | System Info |
+| 05 | Process Viewer | 06 | Performance Monitor |
+
+---
+
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/Mathkasa/Tools-Core-v1
 cd Tools-Core-v1
+pip install -r requirements.txt
 python main.py
